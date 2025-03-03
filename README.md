@@ -2,6 +2,9 @@
 I tested various touch libraries, and the only one that allowed the CC1101 to work correctly was LVGL.
 I know this may look messy, but I figured I'd share it so others can improve or use it as they please.
 
+![Image](https://github.com/user-attachments/assets/46c7ffc2-ecaf-41bf-a22b-b3ce93cd9371)
+
+
 # Setup Instructions
 1. Install Arduino IDE
 Make sure you have the Arduino IDE installed before proceeding.
