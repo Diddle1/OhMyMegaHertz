@@ -41,6 +41,8 @@ If you experience issues, downgrade to 2.0.14 or lower.
 - IR_LED_PIN      1
 - IR_RECEIVE_PIN  2
 
+![Image](https://github.com/user-attachments/assets/553bd169-6b52-4710-ae9f-ae94e72c9da8)
+
 # Additional Notes:
 You can modify the wiring to enable SD card support if needed.
 Captive Portal: Tested and works fine. Not currently in it at the time.
